@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schlau Lisa</string>
+    <string name="private_version">7f1d82148fc2c8798e716f88bb0edb4aaf5a50d4</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>
